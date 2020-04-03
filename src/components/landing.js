@@ -18,6 +18,7 @@ export default class Landing extends Component {
                             <hr/>
 
                             <p>HTML | CSS | JAVASCRIPT | REACT | BOOTSTRAP STUDIO 4 | PYTHON</p>
+                            <p> JavaScript libraries(Fullpage.js/Rellax.js/Reveal.js)
                         <div className="social-links">
                         {/* linkedin*/}
                             <a href="http://www.linkedin.com/in/victorp-mune1812/" rel="noopener noreferrer" target="_blank">
